@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "Hu Tao",
+    "detail": "She is the 77th Director of the Wangsheng Funeral Parlor, located in Liyue Harbor.",
+    "coverimage": "https://www.overpower-game.com/uploads/ueditor/20210225/5-210225115314460.jpg"
+  },
+  {
+    "id": 2,
+    "name": "marisa kirisame",
+    "detail": "Marisa Kirisame is an ordinary human magician who specializes in light and heat magic and currently resides in the Forest of Magic.",
+    "coverimage": "https://static.zerochan.net/Kirisame.Marisa.full.3565569.jpg"
+  },
+  {
+    "id": 3,
+    "name": "nue houjuu",
+    "detail": "Nue Houjuu is said to be one of the most mysterious and feared youkai in many years and has been defeated by humans many times.",
+    "coverimage": "https://rare-gallery.com/thumbs/569906-Anime-Nue-Houjuu.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ganyu",
+    "detail": "She is a half-qilin Adeptus under contract with the Geo Archon Morax and serves as the general secretary of the Liyue Qixing.",
+    "coverimage": "https://img.4gamers.com.tw/ckfinder-th/files/135347267_2533908926911865_2637824842545707014_o.jpg?versionId=XJZU8fq4gJUuVlOoAxvvoPCwlM2REZTq"
+  },
+  {
+    "id": 5,
+    "name": "Rem",
+    "detail": "maid in service of margrave Roswaal L Mathers alongside her sister, Ram. She is one of the main supporting characters of Re:Zero.",
+    "coverimage": "https://wegotthiscovered.com/wp-content/uploads/2021/06/Rem-640x321.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Ram",
+    "detail": "Ram is Rem's sister and one of the twin maids working for margrave Roswaal L Mathers. Debuting in Arc 2, Ram originally played a rather neutral role, neither assisting in Subaru's.",
+    "coverimage": "https://img.online-station.net/_content/2017/0707/gallery/1499402235.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Koishi Komeiji",
+    "detail": "Koishi Komeiji is a satori, and Satori Komeiji's younger sister. She initially appeared as the Extra stage boss of Subterranean Animism.",
+    "coverimage": "https://c4.wallpaperflare.com/wallpaper/85/119/661/anime-touhou-koishi-komeiji-wallpaper-preview.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tenshi Hinanawi",
+    "detail": "Tenshi Hinanawi is the main antagonist of Scarlet Weather Rhapsody. She's the Eldest Daughter (総領娘 souryou musume) of the Hinanawi clan, as referred to by Iku Nagae, that resides in Heaven. Being in heaven, she has a rather carefree life which she considers boring.",
+    "coverimage": "https://c4.wallpaperflare.com/wallpaper/532/658/341/anime-touhou-tenshi-hinanawi-wallpaper-preview.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Chimata Tenkyuu",
+    "detail": "Chimata Tenkyuu is the Stage 6 boss and secondary antagonist of Unconnected Marketeers.",
+    "coverimage": "https://w0.peakpx.com/wallpaper/704/223/HD-wallpaper-anime-touhou-chimata-tenkyuu.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Karla",
+    "detail": "Karla is one of the main characters in Kono Healer, Mendokusai series. She is an elf and a healer. She is 72 years old in dark elf years, and about 14-15 years old in human years.",
+    "coverimage": "https://animecorner.me/wp-content/uploads/2021/10/Kono-Healer-Mendokusai-to-Broadcast-in-2022.png"
+  },
+  {
+    "id": 11,
+    "name": "Hatsune Miku",
+    "detail": "Hatsune Miku also called Miku Hatsune, and officially code-named CV01,[2][3] is a Vocaloid software voicebank developed by Crypton Future Media and its official moe anthropomorphism, a 16-year-old girl with long, turquoise twintails. Miku's personification has been marketed as a virtual idol and has performed at live virtual concerts onstage as an animated projection.",
+    "coverimage": "https://www.teahub.io/photos/full/244-2448962_photo-wallpaper-girl-rain-umbrella-steps-vocaloid-len.jpg"
+  }
+
+]
